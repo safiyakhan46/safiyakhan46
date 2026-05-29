@@ -19,7 +19,7 @@ My work combines software development, research, and technical writing — with 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;◆ **Published:** *Blockchain for Secure Patient Health Records in Telemedicine* — Zenodo (2025)
-                                         *Algorithmic triage scoring to reduce alarm fatigue in post-surgical ICU settings: a simulation study* — Zenodo (2025)
+                     *Algorithmic triage scoring to reduce alarm fatigue in post-surgical ICU settings: a simulation study* — Zenodo (2025)
 
 &nbsp;&nbsp;&nbsp;&nbsp;◆ **Research focus:** Health AI · Privacy-preserving systems · Low-resource settings · Programme management
 
