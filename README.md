@@ -13,12 +13,9 @@
 
 ### ⬛ About me
 
-I am a **Second Year Comp Sci Student** specialising in **Artificial Intelligence**, passionate about turning research into systems that create measurable change for large populations.
+I am a Second Year Computing student specialising in Artificial Intelligence, focused on building practical systems at the intersection of healthcare, data, and global impact.
 
-- ◆ &nbsp;I work across **research, code, and writing** — always prioritising rigour, clarity, and real-world relevance
-- ◆ &nbsp;I am currently building a **patient monitoring dashboard** for hospital settings and an **AI-assisted project management tool** for NGO and public sector workflows
-- ◆ &nbsp;**Beyond code:** I research, publish, and write on AI, global health informatics, and technology for humanitarian impact
-- My portfolio : https://safiyakhan.netlify.app/
+My work combines software development, research, and technical writing — with a strong interest in health informatics, AI systems, and technology for low-resource settings.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;◆ **Published:** *Blockchain for Secure Patient Health Records in Telemedicine* — Zenodo (2025)
@@ -39,6 +36,17 @@ I am a **Second Year Comp Sci Student** specialising in **Artificial Intelligenc
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+
+**◆ Featured Projects**
+### ⬛ Featured Projects
+
+| Project                            | Description                                                                                                                          | Stack                                     |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- |
+| **Healthcare Workforce Dashboard** | Interactive healthcare analytics dashboard exploring staffing, workload distribution, and hospital operations using public datasets. | Power BI · Python · Data Analytics        |
+| **Patient Monitoring Dashboard**   | Real-time patient monitoring interface designed for low-resource hospital settings with emphasis on accessibility and clarity.       | JavaScript · SQL · Healthcare Informatics |
+| **AI Project Management Tool**     | AI-assisted workflow and programme management platform for NGO and public sector operations.                                         | Python · AI Systems · Web Development     |
+| **ICU Triage Simulation Study**    | Research simulation exploring algorithmic triage scoring to reduce alarm fatigue in post-surgical ICU settings.                      | Research · Healthcare AI · Simulation     |
+
 
 **◆ AI & Data**
 
@@ -61,25 +69,12 @@ I am a **Second Year Comp Sci Student** specialising in **Artificial Intelligenc
 > **Khan, S.S.** (2025). *Blockchain for Secure Patient Health Records in Telemedicine: A Proposal for Privacy-Preserving Data Management.*
 > Zenodo · [zenodo.org/records/19438102](https://zenodo.org/records/19438102) · ORCID: [0009-0008-9454-8400](https://orcid.org/0009-0008-9454-8400)
 
-**In progress**
 
-- ◆ &nbsp;Paper 2 — AI triage and decision support in humanitarian low-resource health settings
-- ◆ &nbsp;Monthly blog — AI, global health informatics and technology for impact
-
----
-
-### ⬛ Currently Building
-
-- ◆ &nbsp;**Patient Monitoring Dashboard** — Power BI-style visualisation tool for hospital patient data in low-resource settings, built on open WHO health data
-- ◆ &nbsp;**Project Management Tool** — AI-assisted programme management for NGO and public sector workflows
-
----
 
 ### ⬛ Goals
 
 ```
 Masters entry  →  Research institute internship  →  WHO / Global health consultancy
-         Financial freedom  +  meaningful impact at scale
 ```
 
 ---
