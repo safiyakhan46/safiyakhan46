@@ -17,15 +17,21 @@ I am a Second Year Computing student specialising in Artificial Intelligence, fo
 
 My work combines software development, research, and technical writing — with a strong interest in health informatics, AI systems, and technology for low-resource settings.
 
+- **Published Research**
+  - *Blockchain for Secure Patient Health Records in Telemedicine* — Zenodo (2026)
+  - *Algorithmic Triage Scoring to Reduce Alarm Fatigue in Post-Surgical ICU Settings: A Simulation Study* — Zenodo (2026)
 
-&nbsp;&nbsp;&nbsp;&nbsp;◆ **Published:** *Blockchain for Secure Patient Health Records in Telemedicine* — Zenodo (2025)
-                     *Algorithmic triage scoring to reduce alarm fatigue in post-surgical ICU settings: a simulation study* — Zenodo (2025)
+- **Research Focus**
+  - Health AI
+  - Privacy-preserving systems
+  - Low-resource healthcare systems
+  - Programme management and digital health
 
-&nbsp;&nbsp;&nbsp;&nbsp;◆ **Research focus:** Health AI · Privacy-preserving systems · Low-resource settings · Programme management
+- **Writing**
+  - Publishing regular content on AI, health informatics, and emerging technology
 
-&nbsp;&nbsp;&nbsp;&nbsp;◆ **Writing:** 3 blog posts per month on AI, health informatics, and emerging tech
-
-&nbsp;&nbsp;&nbsp;&nbsp;◆ **Certifications:** 32 professional certifications across AI, data science, cybersecurity, and cloud
+- **Certifications**
+  - Professional certifications across AI, data science, cybersecurity, and cloud technologies
 
 ---
 
