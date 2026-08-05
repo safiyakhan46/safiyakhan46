@@ -4,7 +4,13 @@
 
 ### Computing Student • AI Explorer • Builder
 
-*"I like asking difficult questions and building software that gets us closer to answering them."*
+<div align="center">
+
+> *Dubito, ergo cogito; cogito, ergo sum.*
+
+**"I doubt, therefore I think; I think, therefore I am."**
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Healthcare+AI;Software+Engineering;Machine+Learning;Research;Always+Learning." />
 
@@ -154,6 +160,7 @@ Whether it's an AI model, a healthcare dashboard, or a research prototype, I enj
 <a href="mailto:safiya.salkhan@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 
 </div>
 
