@@ -6,6 +6,12 @@
 
 *"I like asking difficult questions and building software that gets us closer to answering them."*
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Healthcare+AI;Software+Engineering;Machine+Learning;Research;Always+Learning." />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=safiyakhan46&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </div>
 
 ---
@@ -16,17 +22,13 @@ I'm a second-year Computing student specializing in Artificial Intelligence.
 
 Most days you'll find me somewhere between writing Python, reading research papers, debugging something that broke five minutes ago, or sketching ideas for healthcare technology that could make life a little easier.
 
-I'm especially interested in
+I'm especially interested in:
 
-🧠 Artificial Intelligence
-
-🏥 Healthcare Technology
-
-📊 Data Science
-
-🔐 Privacy & Security
-
-🌍 Global Health
+- 🧠 Artificial Intelligence
+- 🏥 Healthcare Technology
+- 📊 Data Science
+- 🔐 Privacy & Security
+- 🌍 Global Health
 
 I believe the best technology isn't the most complicated—it's the one that quietly improves someone's life.
 
@@ -42,7 +44,7 @@ class Safiya:
         "Healthcare AI",
         "Software Engineering",
         "Computer Vision",
-        "Cloud"
+        "Cloud Computing"
     ]
 
     building = [
@@ -59,97 +61,106 @@ class Safiya:
         "System Design"
     ]
 
-    fun_fact = "Probably overthinking a README."
+    favorite_error = "It worked yesterday."
+
+    coffee = True
 ```
 
 ---
 
-## 💻 Tech I enjoy
+## 💻 Tech I Enjoy
 
-🐍 Python
+🐍 Python • ☕ Java • ⚡ JavaScript • 🗄 SQL • 🌐 HTML/CSS
 
-☕ Java
+🤖 TensorFlow • 📊 Pandas • 🧮 NumPy • 📈 Power BI
 
-⚡ JavaScript
-
-🗄 SQL
-
-📈 Power BI
-
-🤖 TensorFlow
-
-📊 Pandas
-
-🧮 NumPy
-
-🌐 HTML/CSS
-
-Git • GitHub • VS Code
+Git • GitHub • VS Code • LaTeX • Overleaf
 
 ---
 
-## 📚 Things I've written
+## 📈 GitHub Analytics
 
-Rather than keeping ideas in notebooks, I enjoy turning them into papers and technical writing.
+<div align="center">
 
-📄 Blockchain for Secure Patient Health Records
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=safiyakhan46&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-📄 ICU Triage Simulation
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safiyakhan46&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=safiyakhan46&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=safiyakhan46&theme=tokyo-night&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=safiyakhan46&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## 📚 Things I've Written
+
+Rather than keeping ideas in notebooks, I enjoy turning them into research and technical writing.
+
+- 📄 Blockchain for Secure Patient Health Records
+- 📄 ICU Triage Simulation Study
 
 More to come.
 
 ---
 
-## 🚀 What I'm building toward
+## 🚀 What I'm Building Toward
 
-I'm fascinated by the intersection of
+I'm fascinated by the intersection of artificial intelligence, healthcare, and human-centered software.
 
-Artificial Intelligence
-
-Healthcare
-
-Human-centered software
-
-Research
-
-I'm hoping to contribute to technology that doesn't just perform well on benchmarks—but genuinely helps people.
+Whether it's an AI model, a healthcare dashboard, or a research prototype, I enjoy solving problems that combine software engineering with meaningful real-world impact.
 
 ---
 
-## 🌱 Outside of coding
+## 🌱 Outside of Coding
 
-📚 Reading research
-
-☕ Coffee
-
-✈️ Learning about global health systems
-
-🎧 Music while coding
-
-🌙 Late-night debugging sessions
+- 📚 Reading research papers
+- ☕ Drinking coffee
+- ✈️ Learning about global health systems
+- 🎧 Coding with music
+- 🌙 Late-night debugging sessions
 
 ---
 
-## 📈 GitHub
+## 🤝 Let's Connect
 
-[stats here]
+<div align="center">
 
----
+<a href="https://github.com/safiyakhan46">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 🤝 Let's connect
+<a href="https://www.linkedin.com/in/safiya-salman-khan-573153325/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-LinkedIn
+<a href="https://orcid.org/0009-0008-9454-8400">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
 
-ORCID
+<a href="https://zenodo.org/records/19438102">
+<img src="https://img.shields.io/badge/Research-Zenodo-3E8EDE?style=for-the-badge"/>
+</a>
 
-Zenodo
+<a href="mailto:safiya.salkhan@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Email
+</div>
 
 ---
 
 <div align="center">
 
-*"Stay curious. Build things. Leave them better than you found them."*
+*"Stay curious. Build things. Leave them better than you found them."* ✨
 
 </div>
