@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f2f2f2"/><stop offset="0.55" stop-color="#bdbdbd"/><stop offset="1" stop-color="#6e6e6e"/>
+    </linearGradient>
+    <linearGradient id="river" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.9"/><stop offset="1" stop-color="#d9d9d9"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="300" fill="url(#sky)"/>
+  <path d="M0 175 Q120 140 230 168 T460 160 T700 150 T900 170 V300 H0Z" fill="#8a8a8a"/>
+  <path d="M0 195 Q160 160 320 190 T620 182 T900 195 V300 H0Z" fill="#555"/>
+  <path d="M0 225 Q200 195 420 222 T900 215 V300 H0Z" fill="#2e2e2e"/>
+  <path d="M0 255 Q260 230 520 258 T900 250 V300 H0Z" fill="#141414"/>
+  <path d="M452 176 C430 190 470 200 440 212 C400 228 500 238 450 252 C390 268 520 282 470 300 L560 300 C600 280 470 268 540 252 C600 238 470 226 520 212 C550 200 470 190 470 176Z" fill="url(#river)" opacity="0.85"/>
+  <text x="450" y="92" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="34" fill="#111">Welcome to Safiya's Github</text>
+  <text x="450" y="132" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="24" fill="#111">&lt;/&gt;</text>
+</svg>
